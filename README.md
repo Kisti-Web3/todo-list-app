@@ -4,13 +4,13 @@ A To-Do List App built with HTML, CSS and JavaScript.
 To-Do List App
 A simple To-Do List application built with HTML, CSS and JavaScript.
 
-Features
+Features: 
 i. Add new tasks.
 ii. Delete tasks.
 iii. Mark tasks as completed.
 iv. Save tasks using localStorage.
 
-Technologies Used
+Technologies Used: 
 i. HTML
 ii. CSS
 iii. JavaScript
